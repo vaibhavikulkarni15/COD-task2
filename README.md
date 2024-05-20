@@ -1,5 +1,5 @@
 name : vaibhavi kulkarni
-id : CTO8WT35
+id : CTO8WD35
 domain : cybersecurity and ethical hacking
 mentor : sravani gouni
 description : A vulnerability scanning tool that shows open ports is a specialized security solution designed to identify and assess potential vulnerabilities within a network by detecting open ports. Open ports are communication endpoints on a network device that can accept connections, and they are critical for the functionality of services and applications. However, they can also be exploited by malicious actors if not properly secured.
